@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "node_modules": true
+  },
+  "material-icon-theme.activeIconPack": "nest",
+  "thunder-client.saveToWorkspace": true,
+  "thunder-client.customLocation": "",
+  "cSpell.words": ["nestjs", "postgres", "typeorm"],
+  "thunder-client.workspaceRelativePath": ".vscode/ThunderClient/Config",
+  "thunder-client.httpLibrary": "got"
+}
